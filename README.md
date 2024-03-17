@@ -1,4 +1,4 @@
-### Hey there, I am Amir! 👋
+### Hi, I'm Amir Valipour 👋
 
 I'm Amir, a software engineer with a love for simplicity and efficiency.
 I harness the power of great minds – but for crafting elegant software solutions, not world domination plans. 😉
