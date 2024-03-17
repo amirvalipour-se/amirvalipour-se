@@ -8,3 +8,6 @@ I harness the power of great minds – but for crafting elegant software solutio
 </p>
 
 > "The greatest minds are always willing to learn... even if they have to write names in a little black notebook." - Kira
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=KiraTheGenius&color=red" />
+</p>
