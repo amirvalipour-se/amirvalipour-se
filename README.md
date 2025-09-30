@@ -1,13 +1,33 @@
-## Hi, I'm Amir Valipour 
+<h1 align="left">Hi , I'm Amir Valipour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I'm Amir, a software engineer with a love for simplicity and efficiency.
-I harness the power of great minds – but for crafting elegant software solutions, not world domination plans.🙃
+I'm a software engineer passionate about crafting simple, efficient, and elegant solutions. I believe in harnessing the power of code to solve problems with clarity and precision, always striving for brilliance through simplicity.
 
 <p align="center">
-  <img src="https://github.com/KiraTheGenius/KiraTheGenius/blob/main/1_evil(1).gif" width="450" />
+<pre>
+ .              +   .                .   . .     .  .
+                   .                    .       .     *
+  .       *                        . . . .  .   .  + .
+            "You Are Here"            .   .  +  . . .
+.                 |             .  .   .    .    . .
+                  |           .     .     . +.    +  .
+                 \|/            .       .   . .
+        . .       V          .    * . . .  .  +   .
+           +      .           .   .      +
+                            .       . +  .+. .
+  .                      .     . + .  . .     .      .
+           .      .    .     . .   . . .        ! /
+      *             .    . .  +    .  .       - O -
+          .     .    .  +   . .  *  .       . / |
+               . + .  .  .  .. +  .
+.      .  .  .  *   .  *  . +..  .            *
+ .      .   . .   .   .   . .  +   .    .            +
+</pre>
 </p>
 
-> "The greatest minds are always willing to learn... even if they have to write names in a little black notebook." - Kira
+
+ > "Simplicity is the key to brilliance." – Dieter Rams
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=KiraTheGenius&color=red" />
 </p>
+
