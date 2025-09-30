@@ -28,6 +28,6 @@ I'm a software engineer passionate about building **elegant, efficient software*
  > "Simplicity is the key to brilliance." – Dieter Rams
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=KiraTheGenius&color=red" />
+  <img src="https://komarev.com/ghpvc/?username=KiraTheGenius&color=blueviolet" />
 </p>
 
