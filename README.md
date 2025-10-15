@@ -15,7 +15,7 @@ I'm a software engineer passionate about building **elegant, efficient software*
 </p>
 
 
- > "Simplicity is the key to brilliance." – Dieter Rams
+ > "Simplicity is the ultimate sophistication." – Leonardo da Vinci
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=KiraTheGenius&color=blueviolet" />
