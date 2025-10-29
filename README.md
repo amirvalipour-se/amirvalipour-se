@@ -15,7 +15,7 @@ I'm a software engineer passionate about building **elegant, efficient software*
 </p>
 
 
- > "Simplicity is the ultimate sophistication." – Leonardo da Vinci
+ > "Simplicity is the ultimate sophistication." – da Vinci
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=KiraTheGenius&color=blueviolet" />
